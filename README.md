@@ -15,7 +15,7 @@ particle-analysis/
 
 The repository is intentionally separated from the anode–cathode distance project so that the two research workflows remain independent.
 
-## Main focus
+##Main focus
 
 - Instance segmentation
 - Particle segmentation
